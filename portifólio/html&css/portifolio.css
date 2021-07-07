@@ -420,3 +420,19 @@ hr {
     text-shadow: black 0.2em 0.1em 0.2em;
 }
 
+.footer {
+    height: 15vh;
+    background: linear-gradient(#fff6cc, #99582a);
+    color: #fff;
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    /*border: 1px solid #6f1d1b;*/
+}
+
+.footer>h3>a {
+    color: #fff;
+    text-shadow: #000 0.2em 0.1em 0.2em;
+}
